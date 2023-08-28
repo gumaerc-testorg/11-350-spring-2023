@@ -6,8 +6,8 @@ draft: false
 title: Calendar
 uid: f56e9bed-8bfc-4758-80a9-39c1605adc4b
 ---
-(ECON=Economics; DES=Design; BUS=Business)      
-(SZ = Siqi Zheng; ZT = Zhengzhen Tan; JP = Juan Palacios; CD = Carlos Cerezo Davila)      
+(ECON = Economics; DES = Design; BUS = Business)        
+(SZ = Siqi Zheng; ZT = Zhengzhen Tan; JP = Juan Palacios; CD = Carlos Cerezo Davila)        
  
 
 ## Session 1: Introduction: The why of sustainability in real estate \[SZ, ZT, JP\] 
@@ -57,7 +57,7 @@ Building decarbonization: people side - landlord vs. tenant  
 
 ## Session 4: BUS 1 Winthrop Center \[ZT\]
 
-Boston’s $1.3 billion Winthrop Center was conceived and constructed 2016-2021 in a market with increasing  sustainability sentiment from regulators, community and corporate tenants. The case is about two critical decisions: RFP and Design Development, students will learn:  
+Boston’s $1.3 billion Winthrop Center was conceived and constructed 2016–2021 in a market with increasing  sustainability sentiment from regulators, community and corporate tenants. The case is about two critical decisions: RFP and Design Development, students will learn:  
 
 - How to approach quantitative and qualitative analysis in making high stake sustainability decisions.  
 - Execution risks associated with fast evolving sustainability concepts. Trade offs and challenges in bringing Passive House concepts to reality. What’s the risk involved and how to control the risk.  
@@ -237,7 +237,7 @@ Guest Speaker: Peter Merrigan, CEO and founder, Taurus Investment Holdings  
 
 ## Session 19: BUS 5 Boston Properties: Measuring and Implementing Portfolio Sustainability \[ZT\]
 
-Understand the capital market’s influence on the behavior of long-term core asset investors, owners and operators
+Understand the capital market’s influence on the behavior of long-term core asset investors, owners and operators.
 
 As sustainability becomes an integral part of company strategy, how to set up a framework to define, measure, report and manage sustainability performance.
 
@@ -247,8 +247,8 @@ Guest speaker: Ben Myers, Vice President, Sustainability at Boston Properties �
 
 ## Session 20: BUS 6 Sustainability Data Strategy under new regulation and investor mandate \[ZT, JP\]    
 
-Understand the capital market’s influence on the behavior of long-term core asset investors, owners and      
-operators     
+Understand the capital market’s influence on the behavior of long-term core asset investors, owners and        
+operators       
  
 
 Guest Speaker: Jonathan Flaherty, Global Head - Sustainability and Building Technology Innovation, Tishman Speyer    

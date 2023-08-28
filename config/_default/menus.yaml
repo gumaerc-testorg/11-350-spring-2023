@@ -3,23 +3,39 @@ leftnav:
   name: Syllabus
   pageRef: /pages/syllabus
   weight: 10
-- identifier: f56e9bed-8bfc-4758-80a9-39c1605adc4b
-  name: Calendar
-  pageRef: /pages/calendar
+- identifier: d7ba9b00-90c3-4ca8-b024-ca9892427ab7
+  name: "Sessions 1\u20133"
+  pageRef: /pages/sessions-13
   weight: 20
-- identifier: 89f042bc-75e8-416d-bdb6-749782676743
-  name: Readings
-  pageRef: /pages/readings
+- identifier: b93334a2-bb8e-496b-bba4-7c2a8c5511c5
+  name: "Sessions 4\u20136"
+  pageRef: /pages/sessions-46
   weight: 30
-- identifier: 5a762a2c-3f6d-4247-a9b8-98ccc53d788a
-  name: Lecture Videos
-  pageRef: /video_galleries/lecture-videos
+- identifier: 3bdf4ac4-36b4-43a5-bc2d-7d74cac96fa3
+  name: "Sessions 7\u20139"
+  pageRef: /pages/sessions-79
   weight: 40
-- identifier: c185697c-540a-4333-ad39-5d3e33b588a7
-  name: Lecture Slides
-  pageRef: /lists/lecture-slides
+- identifier: cf19c7fb-e417-4723-bc2b-7720c13778ca
+  name: "Sessions 10\u201312"
+  pageRef: /pages/sessions-1012
   weight: 50
-- identifier: 07b3ab75-d1e9-4c6e-b8af-0a34778bc5ba
-  name: Assignments
-  pageRef: /lists/assignments
+- identifier: 60244e54-5b71-4f93-9eea-4b4f63cf9406
+  name: "Sessions 13\u201315"
+  pageRef: /pages/sessions-13-15
   weight: 60
+- identifier: 87e87436-1b6b-4b1a-ac10-508aa40a3e1f
+  name: "Sessions 16\u201318"
+  pageRef: /pages/sessions-1618
+  weight: 70
+- identifier: 9485859c-358f-4dc4-bc6c-59eafc3bd1ed
+  name: "Sessions 19\u201321"
+  pageRef: /pages/1921
+  weight: 80
+- identifier: 2a5d4149-de2b-4bcc-9e2e-c1b84cd0059f
+  name: "Sessions 22\u201324"
+  pageRef: /pages/sessions-2224
+  weight: 90
+- identifier: 7e1f7e62-e43e-4ba4-bcd2-cad7a8a989c6
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 100
