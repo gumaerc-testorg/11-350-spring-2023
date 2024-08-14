@@ -2,9 +2,9 @@
 content_type: page
 description: This page lists the topics and readings for the listed sessions of 11.350
   Sustainable Real Estate, along with lecture videos and links to lecture slides.
-draft: true
-title: "Lectures 4\u20136 (bad)"
-uid: b93334a2-bb8e-496b-bba4-7c2a8c5511c5
+draft: false
+title: Lectures 4-6
+uid: 6a4b06a3-8bd3-4b88-bd00-171158839d25
 ---
 ## Lecture 4: Winthrop Center \[Zhengzhen Tan\]
 

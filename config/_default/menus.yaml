@@ -3,39 +3,43 @@ leftnav:
   name: Syllabus
   pageRef: /pages/syllabus
   weight: 10
-- identifier: d7ba9b00-90c3-4ca8-b024-ca9892427ab7
-  name: "Sessions 1\u20133"
-  pageRef: /pages/sessions-13
+- identifier: 152fe9cf-b0aa-4e46-912d-5ce49d879ffa
+  name: "Lectures 1\u20133"
+  pageRef: /pages/lectures-1-3
   weight: 20
-- identifier: b93334a2-bb8e-496b-bba4-7c2a8c5511c5
-  name: "Sessions 4\u20136"
-  pageRef: /pages/sessions-46
+- identifier: 6a4b06a3-8bd3-4b88-bd00-171158839d25
+  name: "Lectures 4\u20136"
+  pageRef: /pages/lectures-4-6
   weight: 30
-- identifier: 3bdf4ac4-36b4-43a5-bc2d-7d74cac96fa3
-  name: "Sessions 7\u20139"
-  pageRef: /pages/sessions-79
+- identifier: d2891f28-9207-4ca7-8394-fbf15e84d821
+  name: "Lectures 7\u20139"
+  pageRef: /pages/lectures-7-9
   weight: 40
-- identifier: cf19c7fb-e417-4723-bc2b-7720c13778ca
-  name: "Sessions 10\u201312"
-  pageRef: /pages/sessions-1012
+- identifier: 25834eda-b206-4c25-bff5-68bbd6b225e3
+  name: "Lectures 10\u201312"
+  pageRef: /pages/lectures-10-12
   weight: 50
-- identifier: 60244e54-5b71-4f93-9eea-4b4f63cf9406
-  name: "Sessions 13\u201315"
-  pageRef: /pages/sessions-13-15
+- identifier: 03eb2168-805a-4179-8a32-98f1dbd7f80f
+  name: "Lectures 13\u201315"
+  pageRef: /pages/lectures-13-15
   weight: 60
-- identifier: 87e87436-1b6b-4b1a-ac10-508aa40a3e1f
-  name: "Sessions 16\u201318"
-  pageRef: /pages/sessions-1618
+- identifier: 973e1c47-f298-4dc3-b535-96b78e8fae0d
+  name: "Lectures 16\u201318"
+  pageRef: /pages/lectures-16-18
   weight: 70
-- identifier: 9485859c-358f-4dc4-bc6c-59eafc3bd1ed
-  name: "Sessions 19\u201321"
-  pageRef: /pages/1921
+- identifier: 2b31eaa1-ff84-46f6-93fc-1296e54282c4
+  name: "Lectures 19\u201321"
+  pageRef: /pages/lectures-19-21
   weight: 80
-- identifier: 2a5d4149-de2b-4bcc-9e2e-c1b84cd0059f
-  name: "Sessions 22\u201324"
-  pageRef: /pages/sessions-2224
+- identifier: 1e7bee7a-4481-4cb4-8ce6-d55c49ef4e59
+  name: "Lectures 22\u201324"
+  pageRef: /pages/lectures-22-24
   weight: 90
+- identifier: 5a762a2c-3f6d-4247-a9b8-98ccc53d788a
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 100
 - identifier: 7e1f7e62-e43e-4ba4-bcd2-cad7a8a989c6
   name: Assignments
   pageRef: /pages/assignments
-  weight: 100
+  weight: 110

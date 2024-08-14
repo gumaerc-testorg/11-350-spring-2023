@@ -1,10 +1,10 @@
 ---
 content_type: page
 description: This page lists the topics and readings for the listed sessions of 11.350
-  Sustainable Real Estate, along with lecture videos and links to lecture slides.
-draft: true
-title: "Lectures 16\u201318 (bad)"
-uid: 87e87436-1b6b-4b1a-ac10-508aa40a3e1f
+  Sustainable Real Estate.
+draft: false
+title: Lectures 16-18
+uid: 973e1c47-f298-4dc3-b535-96b78e8fae0d
 ---
 ## Lecture 16: Integrating Sustainable Design in Development \[Carlos Cerezo Davila\]  
 

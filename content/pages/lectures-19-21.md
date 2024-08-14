@@ -1,10 +1,10 @@
 ---
 content_type: page
 description: This page lists the topics and readings for the listed sessions of 11.350
-  Sustainable Real Estate, along with lecture videos and links to lecture slides.
-draft: true
-title: "Lectures 19\u201321 (bad)"
-uid: 9485859c-358f-4dc4-bc6c-59eafc3bd1ed
+  Sustainable Real Estate.
+draft: false
+title: Lectures 19-21
+uid: 2b31eaa1-ff84-46f6-93fc-1296e54282c4
 ---
 ## Lecture 19: Boston Properties: Measuring and Implementing Portfolio Sustainability \[Zhengzhen Tan\]
 
@@ -28,7 +28,7 @@ Guest speaker: Ben Myers, Vice President, Sustainability at Boston Properties �
 
 \[No video or lecture notes available\]
 
-Understand the capital market’s influence on the behavior of long-term core asset investors, owners and               
+Understand the capital market’s influence on the behavior of long-term core asset investors, owners and                
 operators       
 
 Guest Speaker: Jonathan Flaherty, Global Head - Sustainability and Building Technology Innovation, Tishman Speyer

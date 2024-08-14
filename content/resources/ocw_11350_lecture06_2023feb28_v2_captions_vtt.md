@@ -2,19 +2,18 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/11-350-sustainable-real-estate-spring-2023/mit11_350_s23_winthrop.pdf
-file_size: 2001407
-file_type: application/pdf
+file: /courses/11-350-sustainable-real-estate-spring-2023/ocw_11350_lecture06_2023feb28_v2_captions.vtt
+file_size: 127922
+file_type: text/vtt
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types:
-- Readings
+learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: 11.350 Sustainable Real Estate - Winthrop Center case
-uid: fe27d883-5759-4279-b4c7-2e31aa8a8977
+title: OCW_11.350_Lecture06_2023feb28_v2_captions.vtt
+uid: cb45e734-ee38-4af0-9db9-f941dc176ad3
 video_files:
   archive_url: ''
   video_captions_file: ''
@@ -26,4 +25,3 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-This document presents a case study prepared by Zhengzheng Tan, coinstructor for *11.350 Sustainable Real Estate.*

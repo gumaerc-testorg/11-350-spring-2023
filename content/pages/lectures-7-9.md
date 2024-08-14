@@ -2,9 +2,9 @@
 content_type: page
 description: This page lists the topics and readings for the listed sessions of 11.350
   Sustainable Real Estate, along with lecture videos and links to lecture slides.
-draft: true
-title: "Lectures 7\u20139 (bad)"
-uid: 3bdf4ac4-36b4-43a5-bc2d-7d74cac96fa3
+draft: false
+title: Lectures 7-9
+uid: d2891f28-9207-4ca7-8394-fbf15e84d821
 ---
 ## Lecture 7: From Green Buildings to Green Cities: Pricing Environmental Features and Supporting Decisionmaking \[Siqi Zheng\]  
 
@@ -31,7 +31,7 @@ Zheng, S., and M.E. Kahn (2008). "Land and Residential Property Markets in a Boo
 
  
 
-## Lecture 8: Climate Risk and Real Estate Markets: Understanding the Basic Impacts of Climate Change on Real Estate Markets \[Siqi Zheng, Juan Palacio\]
+## Lecture 8: Climate Risk and Real Estate Markets: Understanding the Basic Impacts of Climate Change on Real Estate Markets \[Siqi Zheng, Juan Palacios\]
 
 {{< resource uuid="a542dac1-b3c5-4d3f-919c-3f13333ee898" >}}
 
@@ -64,7 +64,7 @@ Hsiang, S., and R.E. Kopp (2018). ["An Economist's Guide to Climate Change Scien
 
  
 
-## Lecture 9: Quantifying Climate Risks’ Impacts on Real Estate Values \[Siqi Zheng, Juan Palacio\]
+## Lecture 9: Quantifying Climate Risks’ Impacts on Real Estate Values \[Siqi Zheng, Juan Palacios\]
 
 {{< resource uuid="10a17546-bf24-4db3-b0a4-2a124b88e125" >}}
 

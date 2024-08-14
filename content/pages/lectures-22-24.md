@@ -1,10 +1,10 @@
 ---
 content_type: page
 description: This page lists the topics and readings for the listed sessions of 11.350
-  Sustainable Real Estate, along with lecture videos and links to lecture slides.
-draft: true
-title: "Lectures 22\u201324 (bad)"
-uid: 2a5d4149-de2b-4bcc-9e2e-c1b84cd0059f
+  Sustainable Real Estate.
+draft: false
+title: Lectures 22-24
+uid: 1e7bee7a-4481-4cb4-8ce6-d55c49ef4e59
 ---
 ## Lecture 22: ESG Talking and Doing \[Zhengzhen Tan, Jacques Gordon\]  
 
