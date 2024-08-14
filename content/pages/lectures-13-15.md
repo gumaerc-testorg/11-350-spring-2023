@@ -2,9 +2,9 @@
 content_type: page
 description: This page lists the topics and readings for the listed sessions of 11.350
   Sustainable Real Estate, along with lecture videos and links to lecture slides.
-draft: true
-title: "Lectures 13\u201315 (bad)"
-uid: 60244e54-5b71-4f93-9eea-4b4f63cf9406
+draft: false
+title: Lectures 13-15
+uid: 03eb2168-805a-4179-8a32-98f1dbd7f80f
 ---
 ## Lecture 13: Financing Sustainable Real Estate at the Asset Level \[Siqi Zheng\]   
 

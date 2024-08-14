@@ -2,9 +2,9 @@
 content_type: page
 description: This page lists the topics and readings for the listed sessions of 11.350
   Sustainable Real Estate, along with lecture videos and links to lecture slides.
-draft: true
-title: "Lectures 1\u20133 (bad)"
-uid: d7ba9b00-90c3-4ca8-b024-ca9892427ab7
+draft: false
+title: Lectures 1-3
+uid: 152fe9cf-b0aa-4e46-912d-5ce49d879ffa
 ---
 ## Lecture 1: Introduction: The Why of Sustainability in Real Estate \[Siqi Zheng, Zhengzhen Tan, Juan Palacios\] 
 

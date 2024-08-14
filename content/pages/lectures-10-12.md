@@ -2,9 +2,9 @@
 content_type: page
 description: This page lists the topics and readings for the listed sessions of 11.350
   Sustainable Real Estate, along with lecture videos and links to lecture slides.
-draft: true
-title: "Lectures 10\u201312 (bad)"
-uid: cf19c7fb-e417-4723-bc2b-7720c13778ca
+draft: false
+title: Lectures 10-12
+uid: 25834eda-b206-4c25-bff5-68bbd6b225e3
 ---
 ## Lecture 10: Topical Discussions \[Siqi Zheng\]
 
