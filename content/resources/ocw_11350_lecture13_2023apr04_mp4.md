@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/11-350-sustainable-real-estate-spring-2023/ocw_11350_lecture13_2023apr04_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/11-350-sustainable-real-estate-spring-2023/ocw_11350_lecture13_2023apr04_360p_16_9.mp4
 file_size: 99409093
 file_type: video/mp4
 image_metadata:
