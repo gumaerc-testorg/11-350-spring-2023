@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/11-350-sustainable-real-estate-spring-2023/mit11_350_s23_winthrop.pdf
+file: /ol-ocw-studio-app/courses/11-350-sustainable-real-estate-spring-2023/mit11_350_s23_winthrop.pdf
 file_size: 2001407
 file_type: application/pdf
 image_metadata:

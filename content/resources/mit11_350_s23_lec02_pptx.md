@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/11-350-sustainable-real-estate-spring-2023/mit11_350_s23_lec02.pptx
+file: /ol-ocw-studio-app/courses/11-350-sustainable-real-estate-spring-2023/mit11_350_s23_lec02.pptx
 file_size: 22310007
 file_type: application/vnd.openxmlformats-officedocument.presentationml.presentation
 image_metadata:
