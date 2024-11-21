@@ -6,7 +6,7 @@ draft: false
 title: Syllabus
 uid: 3a08efa6-9592-4db6-b8ee-439022353dc6
 ---
-## Course Meeting TImes
+## Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
@@ -39,30 +39,30 @@ On the economics side, we will emphasize classical economic tools to think throu
 
 ### Schedule of Topics
 
-- {{% resource_link "d7ba9b00-90c3-4ca8-b024-ca9892427ab7" "Lecture 1: Introduction: The Why of Sustainability in Real Estate" %}}
-- {{% resource_link "d7ba9b00-90c3-4ca8-b024-ca9892427ab7" "Lecture 2: The Economics of Green Buildings, part 1" %}}
-- {{% resource_link "d7ba9b00-90c3-4ca8-b024-ca9892427ab7" "Lecture 3: The Economics of Green Buildings, part 2" %}}
-- {{% resource_link "b93334a2-bb8e-496b-bba4-7c2a8c5511c5" "Lecture 4: Winthrop Center" %}}
-- {{% resource_link "b93334a2-bb8e-496b-bba4-7c2a8c5511c5" "Lecture 5: The Economics of Healthy Buildings" %}}
-- {{% resource_link "b93334a2-bb8e-496b-bba4-7c2a8c5511c5" "Lecture 6: 425 Park Ave" %}}
-- {{% resource_link "3bdf4ac4-36b4-43a5-bc2d-7d74cac96fa3" "Lecture 7: From Green Buildings to Green Cities: Pricing Environmental Features and Supporting Decisionmaking" %}}
-- {{% resource_link "3bdf4ac4-36b4-43a5-bc2d-7d74cac96fa3" "Lecture 8: Climate Risk and Real Estate Markets: Understanding the Basic Impacts of Climate Change on Real Estate Markets" %}}
-- {{% resource_link "3bdf4ac4-36b4-43a5-bc2d-7d74cac96fa3" "Lecture 9: Quantifying Climate Risks’ Impacts on Real Estate Values" %}}
-- {{% resource_link "cf19c7fb-e417-4723-bc2b-7720c13778ca" "Lecture 10: Topical Discussions" %}}
-- {{% resource_link "cf19c7fb-e417-4723-bc2b-7720c13778ca" "Lecture 11: Policy as a Game Changer for Sustainable Real Estate" %}}
-- {{% resource_link "cf19c7fb-e417-4723-bc2b-7720c13778ca" "Lecture 12: EDGE: Reinventing Sustainable Real Estate in the Digital Age" %}}
-- {{% resource_link "60244e54-5b71-4f93-9eea-4b4f63cf9406" "Lecture 13: Financing Sustainable Real Estate at the Asset Level" %}}
-- {{% resource_link "60244e54-5b71-4f93-9eea-4b4f63cf9406" "Lecture 14: Financing Sustainable Real Estate at the Portfolio Level" %}}
-- {{% resource_link "60244e54-5b71-4f93-9eea-4b4f63cf9406" "Lecture 15: Design Strategies for Sustainability and Resilience" %}}
-- {{% resource_link "87e87436-1b6b-4b1a-ac10-508aa40a3e1f" "Lecture 16: Integrating Sustainable Design in Development" %}}
-- {{% resource_link "87e87436-1b6b-4b1a-ac10-508aa40a3e1f" "Lecture 17: Applications of Environmental Modeling Tools" %}}
-- {{% resource_link "87e87436-1b6b-4b1a-ac10-508aa40a3e1f" "Lecture 18: Taurus Investment Holdings: Decarbonization Venture" %}}
-- {{% resource_link "9485859c-358f-4dc4-bc6c-59eafc3bd1ed" "Lecture 19: Boston Properties: Measuring and Implementing Portfolio Sustainability" %}}
-- {{% resource_link "9485859c-358f-4dc4-bc6c-59eafc3bd1ed" "Lecture 20: Sustainability Data Strategy under New Regulation and Investor Mandate" %}}
-- {{% resource_link "9485859c-358f-4dc4-bc6c-59eafc3bd1ed" "Lecture 21: Sustainable Real Estate in the Broader Capital Market" %}}
-- {{% resource_link "2a5d4149-de2b-4bcc-9e2e-c1b84cd0059f" "Lecture 22: ESG Talking and Doing" %}}
-- {{% resource_link "2a5d4149-de2b-4bcc-9e2e-c1b84cd0059f" "Lecture 23: ESG Preferences and Performance" %}}
-- {{% resource_link "2a5d4149-de2b-4bcc-9e2e-c1b84cd0059f" "Lecture 24: Final Project Presentation" %}}
+- {{% resource_link "152fe9cf-b0aa-4e46-912d-5ce49d879ffa" "Lecture 1: Introduction: The Why of Sustainability in Real Estate" %}}
+- {{% resource_link "152fe9cf-b0aa-4e46-912d-5ce49d879ffa" "Lecture 2: The Economics of Green Buildings, part 1" %}}
+- {{% resource_link "152fe9cf-b0aa-4e46-912d-5ce49d879ffa" "Lecture 3: The Economics of Green Buildings, part 2" %}}
+- {{% resource_link "6a4b06a3-8bd3-4b88-bd00-171158839d25" "Lecture 4: Winthrop Center" %}}
+- {{% resource_link "6a4b06a3-8bd3-4b88-bd00-171158839d25" "Lecture 5: The Economics of Healthy Buildings" %}}
+- {{% resource_link "6a4b06a3-8bd3-4b88-bd00-171158839d25" "Lecture 6: 425 Park Ave" %}}
+- {{% resource_link "d2891f28-9207-4ca7-8394-fbf15e84d821" "Lecture 7: From Green Buildings to Green Cities: Pricing Environmental Features and Supporting Decisionmaking" %}}
+- {{% resource_link "d2891f28-9207-4ca7-8394-fbf15e84d821" "Lecture 8: Climate Risk and Real Estate Markets: Understanding the Basic Impacts of Climate Change on Real Estate Markets" %}}
+- {{% resource_link "d2891f28-9207-4ca7-8394-fbf15e84d821" "Lecture 9: Quantifying Climate Risks’ Impacts on Real Estate Values" %}}
+- {{% resource_link "25834eda-b206-4c25-bff5-68bbd6b225e3" "Lecture 10: Topical Discussions" %}}
+- {{% resource_link "25834eda-b206-4c25-bff5-68bbd6b225e3" "Lecture 11: Policy as a Game Changer for Sustainable Real Estate" %}}
+- {{% resource_link "25834eda-b206-4c25-bff5-68bbd6b225e3" "Lecture 12: EDGE: Reinventing Sustainable Real Estate in the Digital Age" %}}
+- {{% resource_link "03eb2168-805a-4179-8a32-98f1dbd7f80f" "Lecture 13: Financing Sustainable Real Estate at the Asset Level" %}}
+- {{% resource_link "03eb2168-805a-4179-8a32-98f1dbd7f80f" "Lecture 14: Financing Sustainable Real Estate at the Portfolio Level" %}}
+- {{% resource_link "03eb2168-805a-4179-8a32-98f1dbd7f80f" "Lecture 15: Design Strategies for Sustainability and Resilience" %}}
+- {{% resource_link "973e1c47-f298-4dc3-b535-96b78e8fae0d" "Lecture 16: Integrating Sustainable Design in Development" %}}
+- {{% resource_link "973e1c47-f298-4dc3-b535-96b78e8fae0d" "Lecture 17: Applications of Environmental Modeling Tools" %}}
+- {{% resource_link "973e1c47-f298-4dc3-b535-96b78e8fae0d" "Lecture 18: Taurus Investment Holdings: Decarbonization Venture" %}}
+- {{% resource_link "2b31eaa1-ff84-46f6-93fc-1296e54282c4" "Lecture 19: Boston Properties: Measuring and Implementing Portfolio Sustainability" %}}
+- {{% resource_link "2b31eaa1-ff84-46f6-93fc-1296e54282c4" "Lecture 20: Sustainability Data Strategy under New Regulation and Investor Mandate" %}}
+- {{% resource_link "2b31eaa1-ff84-46f6-93fc-1296e54282c4" "Lecture 21: Sustainable Real Estate in the Broader Capital Market" %}}
+- {{% resource_link "1e7bee7a-4481-4cb4-8ce6-d55c49ef4e59" "Lecture 22: ESG Talking and Doing" %}}
+- {{% resource_link "1e7bee7a-4481-4cb4-8ce6-d55c49ef4e59" "Lecture 23: ESG Preferences and Performance" %}}
+- {{% resource_link "1e7bee7a-4481-4cb4-8ce6-d55c49ef4e59" "Lecture 24: Final Project Presentation" %}}
 
 ## Course Requirements and Grading 
 
