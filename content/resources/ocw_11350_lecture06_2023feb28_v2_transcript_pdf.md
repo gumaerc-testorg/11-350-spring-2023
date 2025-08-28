@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/sustainable-real-estate/ocw_11350_lecture06_2023feb28_v2_transcript.pdf
+file: /ol-ocw-studio-app/courses/11-350-sustainable-real-estate-spring-2023/ocw_11350_lecture06_2023feb28_v2_transcript.pdf
 file_size: 101533
 file_type: application/pdf
 image_metadata:
