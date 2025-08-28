@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/sustainable-real-estate/mit11_350_s23_lec13.pptx
+file: /ol-ocw-studio-app/courses/11-350-sustainable-real-estate-spring-2023/mit11_350_s23_lec13.pptx
 file_size: 8830175
 file_type: application/vnd.openxmlformats-officedocument.presentationml.presentation
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Editable Files
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: 11.350 Lecture 13
@@ -21,6 +21,7 @@ video_files:
   video_thumbnail_file: ''
   video_transcript_file: ''
 video_metadata:
+  source: ''
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
