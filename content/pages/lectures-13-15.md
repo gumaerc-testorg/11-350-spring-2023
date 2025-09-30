@@ -25,9 +25,9 @@ Equity: Private equity funds for sustainable real estate   
 
 ### Readings
 
-Kaza, N., R.G. Quercia, and C.Y. Tian (2014). ["Home Energy Efficiency and Mortgage Risks."](https://www.jstor.org/stable/26326871) *Cityscape* 16(1): 279–298.
+Kaza, N., R.G. Quercia, and C.Y. Tian (2014). {{% resource_link "e2b3147c-512e-484a-aec2-87e8ae6d75b3" "\"Home Energy Efficiency and Mortgage Risks.\"" %}} *Cityscape* 16(1): 279–298.
 
-Economic and Housing Research group (2020). ["Unraveling Perceptions of Flood Risk: Examining Changes in Home Prices in Harris County, Texas in the Aftermath of Hurricane Harvey."](https://www.freddiemac.com/research/insight/20200910-unravelling-perceptions-of-flood-risk#:~:text=Overall%2C%20home%20prices%20increased%20in,2.5%25%20even%20after%20Hurricane%20Harvey.&text=However%2C%20as%20people%20updated%20their,3.1%25%20less%20than%20other%20homes.) September 10, 2020 report, Freddie Mac.
+Economic and Housing Research group (2020). {{% resource_link "9e91a090-e987-40d5-83e2-9bee598df187" "\"Unraveling Perceptions of Flood Risk: Examining Changes in Home Prices in Harris County, Texas in the Aftermath of Hurricane Harvey.\"" %}} September 10, 2020 report, Freddie Mac.
 
 Blown Cover (2019). "Changing Weather Could Put Insurance Firms Out of Business." *The Economist*, September 19, 2019.
 
@@ -50,9 +50,9 @@ Benchmarking & Disclosure   
 
 ### Readings
 
-Eichholtz, P., N. Kok, and E. Yonder (2012). ["Portfolio Greenness and the Financial Performance of REITs."](https://www.sciencedirect.com/science/article/abs/pii/S0261560612001052) *Journal of International Money and Finance* 31(7): 1911–1929.
+Eichholtz, P., N. Kok, and E. Yonder (2012). {{% resource_link "07c4ec88-7d17-4de0-880a-9f86e019c061" "\"Portfolio Greenness and the Financial Performance of REITs.\"" %}} *Journal of International Money and Finance* 31(7): 1911–1929.
 
-Devine, A., A. Sanderford, and C. Wang (2022). ["Sustainability and Private Equity Real Estate Returns."](https://www.reri.org/research/files/sustainability_and_private_equity_real_estate_returns.pdf) *Journal of Real Estate Finance and Economics*, published online 16 June 2022.
+Devine, A., A. Sanderford, and C. Wang (2022). {{% resource_link "c496c6d5-63d5-4bcd-b531-a588886dff37" "\"Sustainability and Private Equity Real Estate Returns.\"" %}} *Journal of Real Estate Finance and Economics*, published online 16 June 2022.
 
  
 

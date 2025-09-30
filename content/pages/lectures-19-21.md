@@ -53,4 +53,4 @@ Global Sustainable Real Estate Investment
 
 ### Readings
 
-Krueger, P., Sautner, Z., and Starks, L. T. (2020). [The Importance of Climate Risks for Institutional Investors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3235190). *The Review of Financial Studies* 33(3), 1067–1111.
+Krueger, P., Sautner, Z., and Starks, L. T. (2020). {{% resource_link "56306f5c-6909-4115-88e7-73a460ee3a35" "The Importance of Climate Risks for Institutional Investors" %}}. *The Review of Financial Studies* 33(3), 1067–1111.
