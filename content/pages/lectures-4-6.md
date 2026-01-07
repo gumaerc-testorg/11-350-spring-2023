@@ -48,7 +48,7 @@ The role of technology and certification:  
 
 Allen, J.G. and J.D. Macomber (2020). Chapters 4 and 5 in *Healthy Buildings: How Indoor Spaces Drive Performance and Productivity.* Harvard University Press. ISBN: 9780674237971.
 
-World Green Building Council (2016). {{% resource_link "639322d5-a6c3-4b6a-917c-bd07a8014f88" "*Building the Business Case: Health, Wellbeing, and Productivity in Green Offices.*" %}}
+World Green Building Council (2016). [*Building the Business Case: Health, Wellbeing, and Productivity in Green Offices.*](https://worldgbc.org/article/building-the-business-case-health-wellbeing-and-productivity-in-green-offices/)
 
  
 
@@ -66,8 +66,8 @@ Analyzing financial returns of healthy building investment
 
 Macomber, J., J. G. Allen, and E. Jones (2020).
 
-{{% resource_link "6d27c9af-b291-419a-b142-49f7930f5fd7" "*A Tower for the People: 425 Park Avenue.*" %}}
+[*A Tower for the People: 425 Park Avenue.*](https://www.hbs.edu/faculty/Pages/item.aspx?num=57814)
 
 Case study, Harvard Business School.
 
-Muldavin, S., C.R. Miers, and K. McMackin (2017). {{% resource_link "d316260c-6346-4718-b6e2-719bec5f3938" "\"Buildings Emerge as Drivers of Health and Profits\" (PDF)" %}}. *Corporate Real Estate Journal* 7(2): 177–193.
+Muldavin, S., C.R. Miers, and K. McMackin (2017). ["Buildings Emerge as Drivers of Health and Profits" (PDF)](https://www.muldavin.com/wp-content/uploads/2018/03/Buildings-Emerge-as-Drivers-of-Health-Profits_Muldavin_Corp-RE-Journal_Dec-2017-1.pdf). *Corporate Real Estate Journal* 7(2): 177–193.

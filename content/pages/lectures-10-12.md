@@ -48,9 +48,9 @@ Negative externality and “sticks” policies:
 
 ### Readings
 
-{{% resource_link "dfbf7f52-99d5-4843-9d74-f442c72bf6ea" "US energy code landscape" %}}
+[US energy code landscape](https://www.energycodes.gov/status)
 
-Matisoff, D. C., D.S. Noonan, and M.E. Flowers (2016). "{{% resource_link "8b25722a-37aa-4966-bff8-ca9af31e4bdd" "Policy Monitor—Green Buildings: Economics and Policies.\"" %}} *Review of Environmental Economics and Policy* 10(2): 329–346.
+Matisoff, D. C., D.S. Noonan, and M.E. Flowers (2016). "[Policy Monitor—Green Buildings: Economics and Policies."](https://www.journals.uchicago.edu/doi/full/10.1093/reep/rew009) *Review of Environmental Economics and Policy* 10(2): 329–346.
 
  
 
@@ -72,4 +72,4 @@ Guest speaker: Coen van Oostrom, Founder and CEO of EDGE
 
 #### Optional Reading
 
-Porter, M., and J. Heppelmann (2014). {{% resource_link "7686af28-f096-463a-a9b2-72a12a37e273" "\"How Smart, Connected Products are Transforming Competition.\"" %}} *Harvard Business Review*, November 2014.
+Porter, M., and J. Heppelmann (2014). ["How Smart, Connected Products are Transforming Competition."](https://hbr.org/2014/11/how-smart-connected-products-are-transforming-competition) *Harvard Business Review*, November 2014.
