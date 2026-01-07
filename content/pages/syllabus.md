@@ -16,7 +16,7 @@ Recitations: 1 session / week, 1.5 hours / session
 
 Students should have a grounding in basic statistics. 
 
-Priority in enrollment is given to students in MIT's {{% resource_link "e55b03b3-a645-4773-a9d5-1b5655be34ab" "Master's Program in Real Estate Development" %}}.
+Priority in enrollment is given to students in MIT's [Master's Program in Real Estate Development](https://cre.mit.edu/education/masters-program/).
 
 ## Course Description 
 
