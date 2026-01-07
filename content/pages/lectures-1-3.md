@@ -54,11 +54,11 @@ How the market may fail: Market failure and correction (1): Information asymmetr
 
 ### Readings 
 
-World Green Building Council. (2013). {{% resource_link "0fa77259-6ff5-4ba5-b224-3c9ce3203b08" "\"The Business Case for Green Building: A Review of the Costs and Benefits for Developers, Investors, and Occupants\"" %}} (PDF).
+World Green Building Council. (2013). ["The Business Case for Green Building: A Review of the Costs and Benefits for Developers, Investors, and Occupants"](https://group.skanska.com/4af531/siteassets/sustainability/reporting-publications/reports-on-green-building/business_case_for_green_building_report_web_2013-03-13.pdf) (PDF).
 
 Harvard Business School. Rockville business case.
 
-(If no real estate finance background) Chapter 10 of Geltner, D., N.G. Miller, J. Clayton, and P. Eichholtz (2014). {{% resource_link "981dcc13-eb1d-4fcf-b555-c4b38b261018" "*Commercial Real Estate Analysis and Investments*" %}}, third edition. Mbition LLC. ISBN: 9781133108825.
+(If no real estate finance background) Chapter 10 of Geltner, D., N.G. Miller, J. Clayton, and P. Eichholtz (2014). [*Commercial Real Estate Analysis and Investments*](https://www.amazon.com/Commercial-Real-Estate-Analysis-Investments/dp/1133108822), third edition. Mbition LLC. ISBN: 9781133108825.
 
  
 
@@ -83,4 +83,4 @@ Building decarbonization: the people side: landlord vs. tenant:  
 
 ### Readings 
 
-Institute for Market Transformation (2018). {{% resource_link "69c0db09-5d74-4665-953e-d3c4ea0130ea" "\"Green Lease Leaders: Using the Lease to Drive Innovation and Clean Energy.\"" %}}
+Institute for Market Transformation (2018). ["Green Lease Leaders: Using the Lease to Drive Innovation and Clean Energy."](https://www.imt.org/resources/green-lease-leaders-using-the-lease-to-drive-innovation-and-clean-energy/)

@@ -63,7 +63,7 @@ Clayton, J., van de Wetering, J., Sayce, S., & Devaney, S. (2021). Climate Risk 
 
 ## Session 11: Business Case 2.0: Policy as a Game Changer for Sustainable Real Estate
 
-US energy code landscape: {{% resource_link "dfbf7f52-99d5-4843-9d74-f442c72bf6ea" "https://www.energycodes.gov/status" %}}
+US energy code landscape: [https://www.energycodes.gov/status](https://www.energycodes.gov/status)
 
 Matisoff, D. C., Noonan, D. S., & Flowers, M. E. (2016). Policy monitor—Green buildings: Economics and policies. Review of Environmental Economics and Policy, 10(2), 329-346.
 

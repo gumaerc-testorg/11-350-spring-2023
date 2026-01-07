@@ -25,7 +25,7 @@ Supporting decision-making: business and policy
 
 ### Readings
 
-Eichholtz, P., N. Kok, and J.M. Quigley (2013). {{% resource_link "7e5fa780-3e85-490d-a4b5-b4db35e581b8" "\"The Economics of Green Building.\"" %}} *Review of Economics and Statistics* 95(1): 50–63.
+Eichholtz, P., N. Kok, and J.M. Quigley (2013). ["The Economics of Green Building."](https://www.jstor.org/stable/23355649) *Review of Economics and Statistics* 95(1): 50–63.
 
 Zheng, S., and M.E. Kahn (2008). "Land and Residential Property Markets in a Booming Economy: New Evidence from Beijing." *Journal of Urban Economics* 63(2): 743–757. 
 
@@ -58,9 +58,9 @@ The role of insurance markets in shaping physical climate risk  
 
 ### Readings
 
-Burgess, K., and E. Rapoport (2019). {{% resource_link "cd5dfd43-eb65-4d69-91ac-ed1ec4a24961" "\"Climate Risk and Real Estate Investment Decision-making\" (PDF)." %}} Urban Land Institute / Heitman. 
+Burgess, K., and E. Rapoport (2019). ["Climate Risk and Real Estate Investment Decision-making" (PDF).](https://www.heitman.com/wp-content/uploads/2019/02/ULI-Heitman-Climate-Risk-Report.pdf) Urban Land Institute / Heitman. 
 
-Hsiang, S., and R.E. Kopp (2018). {{% resource_link "14c215a0-5f85-4071-a9e7-1e710b060bb0" "\"An Economist's Guide to Climate Change Science.\"" %}} *Journal of Economic Perspectives* 32(4): 3–32. 
+Hsiang, S., and R.E. Kopp (2018). ["An Economist's Guide to Climate Change Science."](https://www.aeaweb.org/articles?id=10.1257%2Fjep.32.4.3) *Journal of Economic Perspectives* 32(4): 3–32. 
 
  
 
@@ -82,6 +82,6 @@ Climate risks in commercial real estate markets
 
 ### Readings
 
-Clayton, J., J. van de Wetering, S. Sayce, and S. Devaney (2021). {{% resource_link "a9f17f6a-563a-4f73-9062-e614d1b9b294" "\"Climate Risk and Commercial Property Values: A Review and Analysis of the Literature.\"" %}} Report, United Nations Environment Programme Finance Initiative.
+Clayton, J., J. van de Wetering, S. Sayce, and S. Devaney (2021). ["Climate Risk and Commercial Property Values: A Review and Analysis of the Literature."](https://www.unepfi.org/industries/investment/climate-risk-and-commercial-property-values/) Report, United Nations Environment Programme Finance Initiative.
 
-Ortega, F., and S. Taṣpınar (2018). {{% resource_link "8fc1b1ea-6f86-4ba2-93d1-529873b6f676" "\"Rising Sea Levels and Sinking Property Values: Hurricane Sandy and New York’s Housing Market.\"" %}} *Journal of Urban Economics* 106: 81–100.
+Ortega, F., and S. Taṣpınar (2018). ["Rising Sea Levels and Sinking Property Values: Hurricane Sandy and New York’s Housing Market."](https://www.sciencedirect.com/science/article/pii/S0094119018300354) *Journal of Urban Economics* 106: 81–100.
